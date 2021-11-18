@@ -1,5 +1,5 @@
 let myRandomText =" a b s";
-while (myRandomText.length<=500){
-    console.log(myRandomText +"a"+"b"+"c");
+while (myRandomText.length<500){
+    myRandomText=myRandomText+"a"+"b"+"c";
 }
 console.log(myRandomText);
