@@ -4,7 +4,7 @@ let myRandomText = "ABC";
 //-2-
 while (myRandomText.length <= 50000){
  //   console.log("a" + "b" + "c");
- myRandomText= myRandomText+"a" + "b" + "c" + "d";
+ myRandomText= myRandomText+"X" + "x" + "o" + "8" + "o" + "8" +  "x" + "X" + ".-.";
 }
 console.log(myRandomText);
 
