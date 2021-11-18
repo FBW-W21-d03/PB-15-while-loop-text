@@ -2,9 +2,9 @@
 let myRandomText = "ABC";
 
 //-2-
-while (myRandomText.length <= 50000){
+while (myRandomText.length <= 5000){
  //   console.log("a" + "b" + "c");
- myRandomText= myRandomText+"X" + "x" + "o" + "8" + "|" + "8" + "o" + "x" + "X" + ".-.";
+ myRandomText= myRandomText+"X" + "x" + "o" + "8" + "|" + "8" + "o" + "x" + "X";
 }
 console.log(myRandomText);
 
